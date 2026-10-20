@@ -1,18 +1,35 @@
-# 💫 About Me:
-### Hi there 👋<br><br>- 🔭 **I’m currently working on:** Expanding my skillset in Data Science and honing my problem-solving abilities with **Python**.<br>- 👯 **I’m looking to collaborate on:** Projects involving data visualization, business intelligence, or automation.<br>- 🤝 **I’m looking for help with:** Best practices for deploying machine learning models into production.<br>- 🌱 **I’m currently learning:** Advanced statistical methods and data storytelling.<br>- 💬 **Ask me about:** How to turn raw data into actionable insights using **SQL** and **Power BI**.<br>- ⚡ **Fun fact:** I have a background in **Computer Science Engineering** and aim to blend tech with business strategy in the future.
+# Shubham Pethe
 
+Data analyst candidate | SQL, Power BI, Excel and Python
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham__pethe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-pethe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@th_skipper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamkpethe@gmail.com) 
+I'm a 2024 B.Tech Computer Science graduate based in Navi Mumbai, India. My portfolio focuses on data validation, SQL analysis, KPI reporting and dashboards. I'm seeking entry-level Data Analyst, BI Analyst and reporting-focused Business Analyst roles.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+## Selected projects
 
+### [Bank loan analysis](https://github.com/imskipper/Ai-Variant-Bank-Loan-Analysis)
+Educational group internship project at Ai Variant. Explores 39,717 loan records using MySQL, Excel, Power BI and Tableau. Includes SQL queries, dashboard files and a documented review of loan-status metrics.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imskipper&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### [Restaurant data analysis](https://github.com/imskipper/Ai-Variant-Zomato-Data-Analysis)
+Educational group internship project at Ai Variant. Uses SQL and BI tools to explore restaurant distribution, pricing, ratings and service availability across 15 countries.
 
----
-[![](https://visitcount.itsvg.in/api?id=imskipper&icon=2&color=8)](https://visitcount.itsvg.in)
+### [Python exploratory analysis](https://github.com/imskipper/Exploratory-Data-Analysis-Projects)
+Nine EDA projects using Python, Pandas and visualization libraries to explore datasets and communicate patterns.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tools
+
+- SQL and MySQL: joins, aggregations and window functions
+- Excel: pivot tables and lookups
+- Power BI and Tableau: dashboards and visual reporting
+- Python and Pandas: data cleaning and exploratory analysis
+- Git and GitHub: project documentation and version control
+
+## More work
+
+[EarsToText Intelligence Engine](https://github.com/imskipper/EarsToText-Intelligence-Engine): a Python speech-processing project with transcription, acoustic analysis, PII redaction and a Streamlit interface.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/shubham-pethe/)
+- Email: shubhamkpethe@gmail.com
+
+Open to opportunities across India and remote roles that accept India-based candidates.
